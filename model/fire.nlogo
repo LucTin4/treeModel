@@ -24,7 +24,7 @@ end
 
 to go
 
-  spread-fire
+  spread-fire ; diffusion du feu dans les patches arbres
   search-fire
   firemen-respons
 

@@ -25,7 +25,7 @@ end
 to go
 
   spread-fire ; diffusion du feu dans les patches arbres
-  search-fire
+  search-fire ; turtle actions
   firemen-respons
 
   tick
@@ -565,7 +565,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.0.4
+NetLogo 6.2.2
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
